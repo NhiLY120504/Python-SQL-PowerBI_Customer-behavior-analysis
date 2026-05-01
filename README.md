@@ -42,33 +42,34 @@ The goal is to uncover insights into spending patterns, customer segments, produ
 [View details](link_to_your_sql_file_here)
 
 ### 4.1. Revenue by Gender 
-![Revenue by Gender](link_to_image_4.1_here) 
+![Revenue by Gender](EDA_Results/images/4.1.png) 
 
 ### 4.2. High-Spending Discount Users 
-![High-Spending Discount Users](link_to_image_4.2_here) 
+![High-Spending Discount Users](EDA_Results/images/4.2.png) 
 
 ### 4.3. Top 5 Products by Rating 
-![Top 5 Products by Rating](link_to_image_4.3_here) 
+![Top 5 Products by Rating](EDA_Results/images/4.3.png) 
 
 ### 4.4. Shipping Type Comparison 
-![Shipping Type Comparison](link_to_image_4.4_here) 
+![Shipping Type Comparison](EDA_Results/images/4.4.png) 
 
 ### 4.5. Subscribers vs. Non-Subscribers 
+![Subscribers vs. Non-Subscribers](EDA_Results/images/4.5.png)
 
 ### 4.6. Discount-Dependent Products
-![Discount-Dependent Products](link_to_image_4.6_here) 
+![Discount-Dependent Products](EDA_Results/images/4.6.png) 
 
 ### 4.7. Customer Segmentation 
-![Customer Segmentation](link_to_image_4.7_here) 
+![Customer Segmentation](EDA_Results/images/4.7.png) 
 
 ### 4.8. Top 3 Products per Category 
-![Top 3 Products per Category](link_to_image_4.8_here) 
+![Top 3 Products per Category](EDA_Results/images/4.8.png) 
 
 ### 4.9. Repeat Buyers & Subscriptions 
-![Repeat Buyers & Subscriptions](link_to_image_4.9_here) 
+![Repeat Buyers & Subscriptions](EDA_Results/images/4.9.png) 
 
 ### 4.10. Revenue by Age Group 
-![Revenue by Age Group](link_to_image_4.10_here) 
+![Revenue by Age Group](EDA_Results/images/4.10.png) 
 
 ---
 
