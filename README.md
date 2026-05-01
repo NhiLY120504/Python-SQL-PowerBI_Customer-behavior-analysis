@@ -22,7 +22,7 @@ The goal is to uncover insights into spending patterns, customer segments, produ
 ---
 
 ## 3. EDA using Python
-[View details](Initial-data.png)
+[View details](Customer-behavior-analysis.ipynb)
 
 ### Initial Exploration
 ![Initial Exploration](Initial-data.png)
