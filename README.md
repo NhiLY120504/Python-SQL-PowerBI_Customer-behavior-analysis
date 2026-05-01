@@ -22,7 +22,7 @@ The goal is to uncover insights into spending patterns, customer segments, produ
 ---
 
 ## 3. EDA using Python
-[View details](link_to_your_colab_file_here)
+[View details](Initial-data.png)
 
 ### Initial Exploration
 ![Initial Exploration](link_to_your_exploration_image_here)
