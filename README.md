@@ -76,4 +76,4 @@ The goal is to uncover insights into spending patterns, customer segments, produ
 ## 5. Dashboard in Power BI 
 [View details](Customer_behavior_dashboard.pbix)
 
-![Power BI Dashboard Overview](link_to_your_dashboard_image_here)
+![Power BI Dashboard Overview](customer_behavior_dashboard.png)
