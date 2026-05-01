@@ -41,6 +41,8 @@ The goal is to uncover insights into spending patterns, customer segments, produ
 ## 4. Data Analysis using SQL 
 [View details](customer_behavior_analysis.sql)
 
+### Hear are the results:
+
 ### 4.1. Revenue by Gender 
 ![Revenue by Gender](EDA_Results/images/4.1.png) 
 
