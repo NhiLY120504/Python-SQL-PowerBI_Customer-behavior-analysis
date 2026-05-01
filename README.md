@@ -39,7 +39,7 @@ The goal is to uncover insights into spending patterns, customer segments, produ
 ---
 
 ## 4. Data Analysis using SQL 
-[View details](link_to_your_sql_file_here)
+[View details](customer_behavior_analysis.sql)
 
 ### 4.1. Revenue by Gender 
 ![Revenue by Gender](EDA_Results/images/4.1.png) 
@@ -74,6 +74,6 @@ The goal is to uncover insights into spending patterns, customer segments, produ
 ---
 
 ## 5. Dashboard in Power BI 
-[View details](link_to_your_pbix_file_here)
+[View details](Customer_behavior_dashboard.pbix)
 
 ![Power BI Dashboard Overview](link_to_your_dashboard_image_here)
