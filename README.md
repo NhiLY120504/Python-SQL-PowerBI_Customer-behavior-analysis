@@ -25,7 +25,7 @@ The goal is to uncover insights into spending patterns, customer segments, produ
 [View details](Initial-data.png)
 
 ### Initial Exploration
-![Initial Exploration](link_to_your_exploration_image_here)
+![Initial Exploration](Initial-data.png)
 
 ### Data Processing
 
